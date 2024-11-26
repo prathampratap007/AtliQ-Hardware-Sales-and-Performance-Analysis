@@ -39,7 +39,7 @@ May include product lifecycle data, such as launch dates and phase-out plans.
 This dataset provides a holistic view of the company's operations, enabling detailed analysis of market trends, customer behaviors, sales performance, and product effectiveness across different regions and countries.
 
 Raw Data Files
-:[The raw data files can be accessed via the following link](ATLIQ PROJECT FOLDER/RAW DATA)
+'ATLIQ PROJECT FOLDER/RAW DATA'
 
 
 
