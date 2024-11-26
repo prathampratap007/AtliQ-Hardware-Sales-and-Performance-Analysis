@@ -80,7 +80,7 @@ Interactive bar charts, line charts, and pie charts for insightful reporting.
 
 
 ## Results
-![CLICK HER]([Screenshot 2024-11-27 004449.png](https://github.com/prathampratap007/Excel-projects/blob/7243b2ff418144f3102b1bcba23ae0b9562df313/Screenshot%202024-11-27%20004449.png))
+![CLICK HER](https://github.com/prathampratap007/Excel-projects/blob/7243b2ff418144f3102b1bcba23ae0b9562df313/Screenshot%202024-11-27%20004449.png)
 Net Sales Analysis (2019-2021):
 
 Conducted a detailed analysis of the net sales reports for 2019, 2020, and 2021.
