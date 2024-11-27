@@ -8,7 +8,7 @@ This repository features advanced Excel projects demonstrating expertise in Powe
 This repository contains an advanced Excel project focused on analyzing and transforming raw data for Atliq Hardware. The project includes two comprehensive reports—a Sales Report and a Performance Report—covering a three-year period.
 
 ## Objective
-The primary goal of this project is to analyze and assess market performance, identify the target market, and evaluate net sales trends for the years 2018, 2019, and 2020.
+The primary goal of this project is to analyze and assess market performance, identify the target market, and evaluate net sales trends for the years  2019, and 2020,2021.
 
 Through this analysis, the project aims to:
 
