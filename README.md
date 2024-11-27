@@ -1,10 +1,10 @@
-# Excel-projects
-This repository features advanced Excel projects demonstrating expertise in Power Query, Pivot Tables, VLOOKUP, INDEX-MATCH, and ETL processes. Key skills include data cleaning, dynamic dashboards, advanced formulas (e.g., IF, SUMIFS, COUNTIFS), data validation, conditional formatting, slicers, and macros (VBA). These projects emphasize data transformation, building relationships between tables, and report generation, showcasing domain knowledge in sales and revenue analysis, financial performance (P&L), and business insights.
+AtliQ Hardware Sales and Performance Analysis
 
 
 
 
-#  AtliQ Hardware Sales and Performance Analysis
+
+
 This repository contains an advanced Excel project focused on analyzing and transforming raw data for Atliq Hardware. The project includes two comprehensive reports—a Sales Report and a Performance Report—covering a three-year period.
 
 ## Objective
@@ -66,7 +66,7 @@ Formulas including VLOOKUP, INDEX-MATCH, and IF for calculations.
 
 
 ## Tools and Features Used
-Microsoft Excel Advanced Features:
+Microsoft Excel Advanced Features:This repository features advanced Excel tools. demonstrating expertise in Power Query, Pivot Tables, VLOOKUP, INDEX-MATCH, and ETL processes. Key skills include data cleaning, dynamic dashboards, advanced formulas (e.g., IF, SUMIFS, COUNTIFS), data validation, conditional formatting, slicers, and macros (VBA). These projects emphasize data transformation, building relationships between tables, and report generation, showcasing domain knowledge in sales and revenue analysis, financial performance (P&L), and business insights.
 
 Pivot Tables for complex data aggregation.
 Advanced Conditional Formatting for dynamic data visualization.
